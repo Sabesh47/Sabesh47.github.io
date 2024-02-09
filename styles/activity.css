@@ -1,0 +1,845 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 133rem;
+}.activity-V5n {
+  box-sizing: border-box;
+  padding-right: 4.618rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 1.3231rem #ffffff;
+  box-shadow: 1.8901rem 3.1187rem 9.1227rem rgba(0, 0, 0, 0.0900000036);
+  backdrop-filter: blur(3.0159rem);
+  background-color: #f8f8f8;
+  border-radius: 2.7708rem;
+}
+.activity-V5n .component-1-leads-REL {
+  margin-right: 3.5rem;
+  width: 21.8rem;
+  height: 107.4rem;
+  position: relative;
+  box-shadow: 0 0.4618rem 1.8472rem rgba(0, 0, 0, 0.0500000007);
+  flex-shrink: 0;
+}
+.activity-V5n .component-1-leads-REL .compbg-77A {
+  width: 21.2rem;
+  height: 107.3rem;
+  position: absolute;
+  left: 0.6rem;
+  top: 0.1rem;
+  background-color: #ffffff;
+  border-radius: 1.3rem;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.custom-upload-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.custom-link {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Use the default text color (parent color) */
+  cursor: pointer; /* Show pointer cursor on hover, indicating a clickable element */
+  /* Add any other styles you want to apply to the link */
+}
+
+.activity-V5n .component-1-leads-REL .vector-CPW {
+  width: 1.9335rem;
+  height: 1.0707rem;
+  position: absolute;
+  left: 3.9927rem;
+  top: 11.0833rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.activity-V5n .component-1-leads-REL .support-LEp {
+  width: 5.7rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 3.8792rem;
+  top: 34.0351rem;
+  font-size: 1.4778rem;
+  font-weight: 600;
+  line-height: 1.2500000323;
+  letter-spacing: -0.0185rem;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.activity-V5n .component-1-leads-REL .rectangle-2360-cCL {
+  width: 17.8257rem;
+  height: 4.2486rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 25.3rem;
+  background-color: rgba(27, 89, 248, 0.1000000015);
+  border-radius: 0.9236rem;
+}
+.activity-V5n .component-1-leads-REL .sidebar-menu-L8L {
+  width: 4.8rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.2042rem;
+  top: 10.8524rem;
+  font-size: 1.2931rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.0142rem;
+  color: #4d4d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.activity-V5n .component-1-leads-REL .sidebar-menu-Dxp {
+  width: 4rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 7.2042rem;
+  top: 21.4278rem;
+  font-size: 1.2931rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.0142rem;
+  color: #4d4d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.activity-V5n .component-1-leads-REL .icon-social-group24px-g5i {
+  width: 2.2086rem;
+  height: 1.2931rem;
+  position: absolute;
+  left: 3.7386rem;
+  top: 21.3354rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.activity-V5n .component-1-leads-REL .sidebar-menu-cEG {
+  width: 3.7rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.2042rem;
+  top: 16.0632rem;
+  display: flex;
+  font-size: 1.2931rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.0142rem;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.activity-V5n .component-1-leads-REL .path-UnG {
+  width: 0.9698rem;
+  height: 1.7318rem;
+  position: absolute;
+  left: 4.1332rem;
+  top: 16.0016rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.activity-V5n .component-1-leads-REL .sidebar-menu-RBi {
+  width: 5.6rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 7.2042rem;
+  top: 26.5924rem;
+  display: flex;
+  font-size: 1.2931rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.0142rem;
+  color: #1b59f8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.activity-V5n .component-1-leads-REL .sidebar-menu-WU4 {
+  width: 7.1rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.2042rem;
+  top: 38.8379rem;
+  font-size: 1.2931rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.0142rem;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.activity-V5n .component-1-leads-REL .vector-bEc {
+  width: 1.2934rem;
+  height: 1.7549rem;
+  position: absolute;
+  left: 3.9712rem;
+  top: 38.7917rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.activity-V5n .component-1-leads-REL .sidebar-menu-Jui {
+  width: 5.1rem;
+  height: 1.6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 7.2042rem;
+  top: 44.1025rem;
+  font-size: 1.2931rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.0142rem;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.activity-V5n .component-1-leads-REL .vector-RUY {
+  width: 1.7968rem;
+  height: 1.8472rem;
+  position: absolute;
+  left: 3.7194rem;
+  top: 43.964rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.activity-V5n .component-1-leads-REL .vector-9QY {
+  width: 2.0079rem;
+  height: 1.6625rem;
+  position: absolute;
+  left: 3.839rem;
+  top: 26.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.activity-V5n .component-1-leads-REL .line-20-fNt {
+  width: 19.3959rem;
+  height: 0.0924rem;
+  position: absolute;
+  left: 1.8472rem;
+  top: 93.7467rem;
+  background-color: #e5e5e5;
+}
+.activity-V5n .component-1-leads-REL .image-1-oEC {
+  width: 15.3rem;
+  height: 7.3rem;
+  position: relative;
+  left: 3.5rem;
+  top: 0.1rem;
+  background-size: 100% 223.214%;
+  background-position: 0 -4.2692rem;
+  background-image: url('../assets/image-1-ULU.png');
+}
+.activity-V5n .auto-group-bqzi-fnC {
+  margin-bottom: 3.3936rem;
+  width: 103.0822rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-oiqj-Cn8 {
+  margin: 0rem 0.41rem 2.113rem 0rem;
+  width: calc(100% - 0.4104rem);
+  height: 5.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-oiqj-Cn8 .auto-group-ufek-89z {
+  margin-right: 85.5231rem;
+  box-sizing: border-box;
+  padding: 2.7rem 0rem 0rem 0.1rem;
+  height: 100%;
+  font-size: 2.2167rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-oiqj-Cn8 .download-C9r {
+  margin: 1.837rem 0rem 1.397rem 0rem;
+  width: 8.5487rem;
+  height: calc(100% - 3.2336rem);
+  position: relative;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-oiqj-Cn8 .download-C9r .icon-download-83W {
+  width: 2.0319rem;
+  height: 2.0319rem;
+  position: absolute;
+  left: 0;
+  top: 0.1344rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-oiqj-Cn8 .download-C9r .text-qTi {
+  width: 6.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 1.9487rem;
+  top: 0;
+  text-align: right;
+  display: flex;
+  font-size: 1.2931rem;
+  font-weight: 600;
+  line-height: 1.2857142541;
+  color: #4d4d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.activity-V5n .auto-group-bqzi-fnC .divider-joz {
+  margin: 0rem 0rem 8.094rem 0.561rem;
+  width: 102.521rem;
+  height: 0.0924rem;
+  background-color: rgba(0, 0, 0, 0.1000000015);
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct {
+  margin: 0rem 0.376rem 0rem 0.6rem;
+  width: calc(100% - 0.9759rem);
+  height: 84.2302rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt {
+  width: 101.9063rem;
+  height: 39.9302rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  box-shadow: 0 0.4618rem 1.8472rem rgba(0, 0, 0, 0.0500000007);
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .processsing-data--f5N {
+  margin: 0rem 0rem 3.024rem 0rem;
+  width: calc(100% - 0rem);
+  height: 14.3759rem;
+  display: flex;
+  align-items: center;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .processsing-data--f5N .auto-group-fnha-yrk {
+  margin: 0rem 1.1rem 0.276rem 0rem;
+  box-sizing: border-box;
+  padding: 2.9rem 1.5rem 3.4rem 1.5rem;
+  width: 68rem;
+  border: solid 0.0924rem #eff0f6;
+  background-color: #ffffff;
+  border-radius: 1.8472rem;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .processsing-data--f5N .auto-group-fnha-yrk .metric-shE {
+  margin-bottom: 0.8rem;
+  display: flex;
+  font-size: 2.2167rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #4d4d4d;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .processsing-data--f5N .auto-group-fnha-yrk .metric-1He {
+  margin-left: 2rem;
+  display: flex;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #1b59f8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .processsing-data--f5N .uplaod-leads-7ba {
+  margin: 0.1rem 1.194rem 0.2rem 0rem;
+  box-sizing: border-box;
+  padding: 1.743rem 3.306rem 0.626rem 3rem;
+  width: 15.8063rem;
+  height: calc(100% - 0.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.0924rem #eff0f6;
+  background-color: #ffffff;
+  border-radius: 1.8472rem;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .processsing-data--f5N .uplaod-leads-7ba .primary-title-ozC {
+  margin: 0rem 1.2rem 8.807rem 0rem;
+  display: flex;
+  font-size: 1.2931rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.0142rem;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .processsing-data--f5N .uplaod-leads-7ba .primary-title-irG {
+  margin-left: 0.8rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  letter-spacing: -0.0142rem;
+  font-style: italic;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  
+}
+
+
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .processsing-data--f5N .group-289316-CWY {
+  margin-top: 0.3rem;
+  box-sizing: border-box;
+  padding: 1.328rem 2.206rem 1.328rem 1.583rem;
+  width: 15.8063rem;
+  height: 14.0759rem;
+  border: solid 0.0924rem #eff0f6;
+  background-color: #ffffff;
+  border-radius: 1.8472rem;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .processsing-data--f5N .group-289316-CWY .small-graph-7dW {
+  width: 100%;
+  height: 6.7725rem;
+  display: flex;
+  flex-direction: column;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .processsing-data--f5N .group-289316-CWY .small-graph-7dW .primary-title-2Va {
+  margin-bottom: 2.4725rem;
+  display: flex;
+  font-size: 1.2931rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: -0.0142rem;
+  color: rgba(0, 0, 0, 0.6999999881);
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .processsing-data--f5N .group-289316-CWY .small-graph-7dW .metric-MGx {
+  margin-left: 0.018rem;
+  display: flex;
+  font-size: 2.2167rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #25d366;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .connect-with-db-DKA {
+  margin: 0rem 1.406rem 2.17rem 0.3rem;
+        box-sizing: border-box;
+        padding: 1.7rem 4.299rem 1.73rem 6.6rem;
+        width: calc(100% - 1.7063rem);
+        display: flex;
+        align-items: center;
+        border: solid 0.0924rem #eff0f6;
+        background-color: #ffffff;
+        border-radius: 1.8472rem;
+        cursor: pointer;
+    
+}
+
+.connect-with-db-DKA {
+  margin: 0rem 1.406rem 2.17rem 0.3rem;
+  box-sizing: border-box;
+  padding: 1.7rem 4.299rem 1.73rem 6.6rem;
+  width: calc(100% - 1.7063rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.0924rem #eff0f6;
+  ackground-color: #ffffff;
+  border-radius: 1.8472rem;
+  cursor: pointer;
+    
+}
+
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .connect-with-db-DKA .metric-KNC {
+  margin-right: 65.5771rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .connect-with-db-DKA .icons-Fme {
+  margin-top: 0.3456rem;
+  width: 0.9236rem;
+  height: 0.5711rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .generate-api-Adi {
+  margin: 0rem 1.406rem 2.57rem 0.3rem;
+  box-sizing: border-box;
+  padding: 1.7rem 4.299rem 1.73rem 6.6rem;
+  width: calc(100% - 1.7063rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.0924rem #eff0f6;
+  background-color: #ffffff;
+  border-radius: 1.8472rem;
+  cursor: pointer;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .generate-api-Adi .metric-f4g {
+  margin-right: 74.7771rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.popup-container {
+  display: none;
+  font-family: Inter, 'Source Sans Pro';
+  font-size: 16px; 
+  position: fixed;
+  width: 450px;
+  height: 350px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 25px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  z-index: 1000;
+  border-radius: 3.55%;
+}
+
+
+.score {
+  font-weight: bold;
+  color: #27ae60; /* Green color for initiated status */
+}
+
+.answer-pad {
+  flex: 1; /* Take up remaining space */
+  text-align: right; /* Align text to the right */
+}
+
+
+/* Styles for the close button */
+.close-btn {
+  position: absolute;
+  top: 17px;
+  right: 17px;
+  cursor: pointer;
+  font-size: 25px; /* Adjust the close button font size */
+}
+
+
+/* Additional styles for the content */
+.popup-content {
+  padding-top: 20px; /* Adjust the top padding */
+  line-height: 5; /* Adjust line height for better readability */
+  color: #333; /* Set the desired text color */
+  font-family: Inter, 'Source Sans Pro';
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .generate-api-Adi .icons-PWU {
+  margin-top: 0.3456rem;
+  width: 0.9236rem;
+  height: 0.5711rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .mamage-data-hn4 {
+  margin: 0rem 1.406rem 0rem 0.3rem;
+  box-sizing: border-box;
+  padding: 1.7rem 4.299rem 1.73rem 6.6rem;
+  width: calc(100% - 1.7063rem);
+  display: flex;
+  align-items: center;
+  border: solid 0.0924rem #eff0f6;
+  background-color: #ffffff;
+  border-radius: 1.8472rem;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .mamage-data-hn4 .metric-23e {
+  margin-right: 75.7771rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .top-LYt .mamage-data-hn4 .icons-La8 {
+  margin-top: 0.3456rem;
+  width: 0.9236rem;
+  height: 0.5711rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ {
+  width: 100.7rem;
+  height: 78.8302rem;
+  position: absolute;
+  left: 0;
+  top: 5.4rem;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa {
+  margin-bottom: 2.8372rem;
+  width: 100.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-uvyy-cg4 {
+  box-sizing: border-box;
+  padding-bottom: 1.1962rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-uvyy-cg4 .share-1-1-9vt {
+  margin: 0rem 0rem 8.828rem 74.4rem;
+  width: 4rem;
+  height: 5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-uvyy-cg4 .info-1-4nx {
+  margin: 0rem 0rem 5.956rem 2.528rem;
+  width: 2.3438rem;
+  height: 2.3438rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-uvyy-cg4 .info-2-B6t {
+  margin: 0rem 0rem 5.956rem 2.528rem;
+  width: 2.3438rem;
+  height: 2.3438rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-uvyy-cg4 .info-3-7FS {
+  margin: 0rem 0rem 6.632rem 2.528rem;
+  width: 2.3438rem;
+  height: 2.3438rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-uvyy-cg4 .metric-3et {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-lbue-aui {
+  box-sizing: border-box;
+  padding: 1.42rem 0.9rem 3.1rem 1.8rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.0924rem #eff0f6;
+  background-color: #ffffff;
+  border-radius: 1.8472rem;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-lbue-aui .auto-group-qgvg-7ek {
+  margin: 0rem 83.8rem 2.97rem 0rem;
+  width: calc(100% - 83.8rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-lbue-aui .auto-group-qgvg-7ek .whatsapp-1-DSt {
+  margin-right: 1.7rem;
+  width: 2.4rem;
+  height: 2.3088rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-lbue-aui .auto-group-qgvg-7ek .metric-ZFr {
+  margin-bottom: 0.1098rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-lbue-aui .metric-T6L {
+  margin: 0rem 0rem 1.2rem 4.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-lbue-aui .metric-T6L .metric-T6L-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #808080;
+  font-family: Inter, 'Source Sans Pro';
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-lbue-aui .metric-7q6 {
+  margin: 0rem 0rem 0.5rem 4.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-lbue-aui .metric-7q6 .metric-7q6-sub-1 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #808080;
+  font-family: Inter, 'Source Sans Pro';
+}
+
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .whatsapp-sTa .auto-group-lbue-aui .metric-c9a {
+  margin-left: 4.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #1b59f8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .telegram-ueU {
+  margin: 0rem 0.5rem 2.184rem 0rem;
+  box-sizing: border-box;
+  padding: 1.588rem 4.299rem 1.617rem 2.55rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.0924rem #eff0f6;
+  background-color: #ffffff;
+  border-radius: 1.8472rem;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .telegram-ueU .telegram-plane-1-pWY {
+  margin: 0rem 1.95rem 0.13rem 0rem;
+  width: 2.0998rem;
+  height: 1.694rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .telegram-ueU .metric-kQC {
+  margin-right: 78.9771rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .telegram-ueU .icons-rTE {
+  margin-top: 0.3325rem;
+  width: 0.9236rem;
+  height: 0.5494rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .signal-Dwz {
+  box-sizing: border-box;
+  padding: 1.588rem 4.299rem 1.617rem 2.503rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.0924rem #eff0f6;
+  background-color: #ffffff;
+  border-radius: 1.8472rem;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .signal-Dwz .signal-1-vbW {
+  margin: 0.096rem 1.703rem 0rem 0rem;
+  width: 2.3944rem;
+  height: 2.3088rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .signal-Dwz .metric-enQ {
+  margin-right: 82.5771rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.activity-V5n .auto-group-bqzi-fnC .auto-group-hx24-cct .social-media-apps-PYQ .signal-Dwz .icons-mME {
+  margin-top: 0.3325rem;
+  width: 0.9236rem;
+  height: 0.5494rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
